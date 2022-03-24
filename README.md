@@ -1,4 +1,4 @@
-## Olá! ☺️ Hi there  
+## ☺️ Hi there  
 <div>
   <h3> Welcome, I'm glad to se you.</h3>
 <p>
