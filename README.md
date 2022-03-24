@@ -6,7 +6,7 @@
 ☑️ I’m currently avaiable to new projects.
 </p> 
 <p>
-☑️ I’m currently work whith Web Apps Development, learning ReactNative at this moment.
+☑️ I’m currently working whith WebApps development, learning ReactNative at this moment.
 </p>
 ☑️ I've been working with IT for over 10 years, but I'm still learning every day.
 </p>
