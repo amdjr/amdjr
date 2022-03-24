@@ -8,8 +8,7 @@
 <p>
 ☑️ I’m currently learning Web Apps Development. 
 </p>
-☑️ I work with IT Support already 
-  about ten years.
+☑️ I've been working with IT for over 10 years.
 </p>
 <p>
 ☑️ How to reach me: adilson_monteiro@outlook.com
@@ -35,7 +34,6 @@
   <img align="center" alt="amdjr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="amdjr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="amdjr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   </div>
 
   
