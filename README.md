@@ -2,17 +2,12 @@
 <div>
   <h3> Welcome, I'm glad to se you.</h3>
 <p>
-  <hr>
-☑️ I’m currently avaiable to new projects.
-</p> 
-<p>
-☑️ I’m currently working with WebApps development, learning ReactNative at this moment.
+☑️ I’m currently working with Cybersecurity.
 </p>
-☑️ I've been working with IT for over 10 years, but I'm still learning every day.
+ <p>
+☑️ I've been working with IT for over 10 years, and still learning every day. 
 </p>
-<p>
-☑️ How to reach me: adilson_monteiro@outlook.com
-<p/>
+
 </div>
  <hr>
 <div align="center">
